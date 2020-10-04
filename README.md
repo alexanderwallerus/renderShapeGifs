@@ -2,6 +2,8 @@
 
 ![example](/gitReadmeFiles/shape_dir=reverse_rotated=false_interp=0.80_brightScale=1.200.gif)
 
+![files](/gitReadmeFiles/files.png)
+
 This code was written to create .gifs with moving texture on various interpolated 
 shapes in between a rectangle and an ellipse based on a static image texture used
 for previous experiments
