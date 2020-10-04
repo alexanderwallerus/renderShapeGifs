@@ -1,4 +1,4 @@
-# Render .gifs of a continously moving texture with different shapes, orientation, brightnesses, and texture movement direction
+# Render .gifs of shapes interpolated between a rectangle and an ellipse with a continously moving texture, different orientations, brightnesses, and texture movement direction
 
 ![example](/gitReadmeFiles/shape_dir=reverse_rotated=false_interp=0.80_brightScale=1.200.gif)
 
